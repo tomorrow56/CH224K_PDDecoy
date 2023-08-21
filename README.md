@@ -5,18 +5,18 @@
 ## PCB
 
 ### Raw PCB
-![PCB](tragi/img/01_raw_brd.jpg)
+![PCB](toragi/img/01_raw_brd.jpg)
 
 ### Assembled
-![assembled](tragi/img/02_assembled.jpg)
+![assembled](toragi/img/02_assembled.jpg)
 
 ### Check Result
-![result](tragi/img/03_check.jpg)
+![result](toragi/img/03_check.jpg)
 
 ## Schematics
-![schematics](tragi/img/04_Schematics.png)
+![schematics](toragi/img/04_Schematics.png)
 
 ## BOM (akizuki denshi)
-![bom](tragi/bom/bom_tragi.png)
+![bom](toragi/bom/bom_tragi.png)
 
-[csv file is here](tragi/bom/BOM_tragi.csv)
+[csv file is here](toragi/bom/BOM_tragi.csv)
