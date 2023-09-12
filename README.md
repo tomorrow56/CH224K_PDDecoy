@@ -5,20 +5,20 @@
 ## PCB
 
 ### Raw PCB
-![PCB](toragi/img/01_raw_brd.jpg)
+![PCB](/toragi/img/01_raw_brd.jpg)
 
-[Gerber file is here](toragi/Gerber)
+[Gerber file is here](/toragi/Gerber)
 
 ### Assembled
-![assembled](toragi/img/02_assembled.jpg)
+![assembled](/toragi/img/02_assembled.jpg)
 
 ### Check Result
-![result](toragi/img/03_check.jpg)
+![result](/toragi/img/03_check.jpg)
 
 ## Schematics
-![schematics](toragi/img/04_Schematics.png)
+![schematics](/toragi/img/04_Schematics.png)
 
 ## BOM (akizuki denshi)
-![bom](toragi/bom/bom_tragi.png)
+![bom](/toragi/bom/bom_tragi.png)
 
-[csv file is here](toragi/bom/BOM_tragi.csv)
+[csv file is here](/toragi/bom/BOM_tragi.csv)
