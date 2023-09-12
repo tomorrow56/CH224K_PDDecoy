@@ -7,6 +7,8 @@
 ### Raw PCB
 ![PCB](toragi/img/01_raw_brd.jpg)
 
+[Gerber file is here](toragi/Gerber)
+
 ### Assembled
 ![assembled](toragi/img/02_assembled.jpg)
 
